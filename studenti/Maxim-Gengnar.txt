@@ -1,0 +1,6 @@
+grrrr
+48d5741 (HEAD -> main) pridal jsem zvuk pokemona
+5ad83fa vytvoren soubor s jmenem a pokemonem
+9c96a53 (origin/main, origin/HEAD) formátování
+35f6131 zadání
+9c169fd Initial commit
