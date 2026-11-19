@@ -1,0 +1,10 @@
+vrci (vrrrrr)
+
+ git log --oneline
+c2cf6df (HEAD -> main) pridal jsem zvuk vrceni
+9c96a53 (origin/main, origin/HEAD) formátování
+35f6131 zadání
+9c169fd Initial commit
+
+
+nesavoval jsem to pred tim
