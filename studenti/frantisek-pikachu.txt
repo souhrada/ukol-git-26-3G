@@ -1,0 +1,6 @@
+pika pika
+4466dce (HEAD -> main, origin/main, origin/HEAD) Přidán zvuk pokémona Pikachu.
+dec51e6 Přidána složka studenti, která obsahuje prázdný soubor představující pokemona.
+9c96a53 formátování
+35f6131 zadání
+9c169fd Initial commit
