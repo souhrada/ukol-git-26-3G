@@ -1,0 +1,10 @@
+raaaaaa
+
+
+
+
+065faa2 (HEAD -> main, origin/main, origin/HEAD) pridani zvuku pokemona
+c7e758d vytvoreni prazdneho txt souboru
+9c96a53 formátování
+35f6131 zadání
+9c169fd Initial commit
