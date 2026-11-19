@@ -1,1 +1,14 @@
 grrrrrr
+
+
+
+
+
+
+
+
+de3781e (HEAD -> main, origin/main, origin/HEAD) Přidán zvuk pokémona
+e2752d7 txt
+9c96a53 formátování
+35f6131 zadání
+9c169fd Initial commit
