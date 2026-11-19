@@ -1,0 +1,7 @@
+GENGAR GENGAR GENGAR GENGAR GENGAR
+
+d879dd9 (HEAD -> main) 2 commit
+826c4ed prvni commit
+9c96a53 (origin/main, origin/HEAD) formátování
+35f6131 zadání
+9c169fd Initial commit
