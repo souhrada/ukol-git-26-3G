@@ -1,0 +1,6 @@
+huschhhhh!!!
+a3bae31 (HEAD -> main) zvuk pokemona
+ce00980 pridani pokemona
+9c96a53 (origin/main, origin/HEAD) formátování
+35f6131 zadání
+9c169fd Initial commit
